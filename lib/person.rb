@@ -3,4 +3,8 @@ class Person
 
   end
 
+  def name
+
+  end
+
 end
